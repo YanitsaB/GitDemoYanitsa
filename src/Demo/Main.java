@@ -3,7 +3,7 @@ package Demo;
 public class Main {
     public static void main(String[] args) {
 
-import java.util.Scanner;
+        git push -u origin maingit push -u origin mainimport java.util.Scanner;
 
         public class VariablesDemo {
             public static void main(String[] args) {
